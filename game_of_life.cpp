@@ -75,7 +75,7 @@ int main(){
     int h=20;
     int w=40;
     vector<vector<int>> grid(h,vector<int>(w,0));
-    cout<<"How many alive cells are there (pseudo generate locations) [be relative to number of total cells (800) ] >";
+    cout<<"How many alive cells are there (pseudo generated locations) [be relative to number of total cells (800) ] >";
     int n;cin>>n;
     system("cls");
     cout<<"enter fps (recommended : 10) >";
@@ -104,4 +104,5 @@ int main(){
         counter++;
     }
     return 0;
+
 }
