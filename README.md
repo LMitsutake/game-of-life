@@ -8,7 +8,7 @@ but its functional if all parameters are valid
 
 note : also if you are using a linux change system("cls") to system("clear") or else it wont work !
 
-Example of how the code show look in the terminal :
+Example of how the code should look in the terminal :
 
 <img width="372" height="425" alt="Captura de tela 2025-12-26 215909" src="https://github.com/user-attachments/assets/61d0fa40-7171-4049-8e35-4c2f04e7e8d4" />
 
