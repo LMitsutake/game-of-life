@@ -14,6 +14,6 @@ Example of how the code show look in the terminal :
 
 
 
-eventually some cells should build their own "bases" and stabilize and others might stabilize but keep moving like those spinning 3 cells like this :
+eventually some cells might build their own "bases" and stabilize and others might stabilize but keep moving like those spinning 3 cells like this :
 
 <img width="366" height="424" alt="Captura de tela 2025-12-26 220157" src="https://github.com/user-attachments/assets/f2eb3d2e-6131-4336-b0b0-81df3d603bda" />
